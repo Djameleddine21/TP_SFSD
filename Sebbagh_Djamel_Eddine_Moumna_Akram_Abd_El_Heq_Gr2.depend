@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1544106677 source:c:\users\user\desktop\mesprogrammec\sebbagh_djamel_eddine_moumna_akram_abd_el_heq_gr2\main.c
+	"fonction.h"
+
+1544106752 source:c:\users\user\desktop\mesprogrammec\sebbagh_djamel_eddine_moumna_akram_abd_el_heq_gr2\fonction.c
+	"fonction.h"
+
+1544047214 c:\users\user\desktop\mesprogrammec\sebbagh_djamel_eddine_moumna_akram_abd_el_heq_gr2\fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1543787566 source:c:\users\djamel\desktop\sebbagh_djamel_eddine_moumna_akram_abd_el_heq_gr2\fonction.c
+	"fonction.h"
+
+1543780675 c:\users\djamel\desktop\sebbagh_djamel_eddine_moumna_akram_abd_el_heq_gr2\fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1543783603 source:c:\users\djamel\desktop\sebbagh_djamel_eddine_moumna_akram_abd_el_heq_gr2\main.c
+	"fonction.h"
+
+1544113676 source:i:\sebbagh_djamel_eddine_moumna_akram_abd_el_heq_gr2\fonction.c
+	"fonction.h"
+
+1544047214 i:\sebbagh_djamel_eddine_moumna_akram_abd_el_heq_gr2\fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1544135369 source:c:\users\djamel\desktop\tp\fonction.c
+	"fonction.h"
+
+1544118443 c:\users\djamel\desktop\tp\fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1544134288 source:c:\users\djamel\desktop\tp\main.c
+	"fonction.h"
+
+1544137408 source:f:\tp\fonction.c
+	"fonction.h"
+
+1544118444 f:\tp\fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1544137512 source:f:\tp\main.c
+	"fonction.h"
+
+1544137806 source:i:\tp\fonction.c
+	"fonction.h"
+
+1544118444 i:\tp\fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1544137512 source:i:\tp\main.c
+	"fonction.h"
+
+1544617402 source:c:\users\djamel\desktop\tp_sfsd\fonction.c
+	"fonction.h"
+
+1544255822 c:\users\djamel\desktop\tp_sfsd\fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1544255703 source:c:\users\djamel\desktop\tp_sfsd\main.c
+	"fonction.h"
+
